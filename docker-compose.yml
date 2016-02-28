@@ -1,0 +1,4 @@
+tjme:
+  image: 'mrgalaxy/tjme:latest'
+  ports:
+    - '80:80'
